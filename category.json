@@ -1,0 +1,81 @@
+
+{
+    "message": "category products",
+    "data": [
+   
+      {
+        "_id": "65faaf89123c1cdde93a9ade",
+        "productName": "iPhone 13 Pro",
+        "brandName": "Apple",
+        "category": "Phone",
+        "productImage": [
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927713/iphone/iphone13pro1.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927716/iphone/iphone13pro2.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927719/iphone/iphone13pro3.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927722/iphone/iphone13pro4.webp"
+        ],
+        "description": "Apple iPhone 13 Pro with 256GB storage",
+        "price": 999,
+        "sellingPrice": 899,
+        "createdAt": "2024-03-20T09:42:33.550Z",
+       " updatedAt": "2024-03-20T09:42:33.550Z",
+       " __v": 0
+      },
+
+   
+      {
+        "_id": "65faaf89123c1cdde93a9adf",
+        "productName": "Summer Dress",
+        "brandName": "Zara",
+        "category": "Dress",
+        "productImage": [
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927713/dresses/summerdress1.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927716/dresses/summerdress2.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927719/dresses/summerdress3.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927722/dresses/summerdress4.webp"
+        ],
+        "description": "Zara Summer Dress, light and comfortable",
+        "price": 49,
+        "sellingPrice": 39,
+        "createdAt": "2024-03-20T09:42:33.550Z",
+        "updatedAt": "2024-03-20T09:42:33.550Z",
+        "__v": 0
+      },
+    {
+        "_id": "65faaf89123c1cdde93a9adg",
+        "productName": "Kids Toy Car",
+        "brandName": "Hot Wheels",
+        "category": "Kids",
+        "productImage": [
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927713/kids/toycar1.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927716/kids/toycar2.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927719/kids/toycar3.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927722/kids/toycar4.webp"
+        ],
+       "description": "Hot Wheels Toy Car for kids",
+        "price": 19,
+        "sellingPrice": 15,
+        "createdAt": "2024-03-20T09:42:33.550Z",
+        "updatedAt": "2024-03-20T09:42:33.550Z",
+        "__v": 0
+      },
+      {
+        "_id": "65faaf89123c1cdde93a9adh",
+        "productName": "Dell XPS 13",
+        "brandName": "Dell",
+        "category": "Laptop",
+        "productImage": [
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927713/laptops/xps13-1.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927716/laptops/xps13-2.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927719/laptops/xps13-3.webp",
+          "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1710927722/laptops/xps13-4.webp"
+        ],
+       "escription": "Dell XPS 13, 8GB RAM, 256GB SSD",
+       " price": 1099,
+        "sellingPrice": 999,
+        "createdAt": "2024-03-20T09:42:33.550Z",
+        "updatedAt": "2024-03-20T09:42:33.550Z",
+        "__v": 0
+      }
+    ]
+}
